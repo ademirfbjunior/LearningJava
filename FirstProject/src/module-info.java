@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author ademirjunior
- *
- */
-module FirstProject {
-}
