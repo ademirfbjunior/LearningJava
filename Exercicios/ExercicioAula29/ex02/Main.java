@@ -37,7 +37,7 @@ public class Main {
 
 		while (true) {
 
-			Double radius = Double.parseDouble(JOptionPane.showInputDialog("Enter the vlaue of th radius:"));
+			Double radius = Double.parseDouble(JOptionPane.showInputDialog("Enter the value of th radius:"));
 			double area = pi * Math.pow(radius, 2);
 			JOptionPane.showMessageDialog(null, String.format("The circus's area is: %.4f ", area));
 
@@ -55,3 +55,4 @@ public class Main {
 	}
 
 }
+
