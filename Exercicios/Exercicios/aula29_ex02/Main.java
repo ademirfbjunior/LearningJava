@@ -1,4 +1,6 @@
-// Calcular a área do circulo recebendo apenas o valor do raio.
+/*
+Calcular a área do circulo recebendo apenas o valor do raio.
+*/
 package aula29_ex02;
 
 import java.util.Locale;
