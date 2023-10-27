@@ -12,27 +12,6 @@ public class Main {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		double pi = 3.14159;
-//		while(true) {
-//			System.out.print("enter the value of the radius: ");
-//			double radius = sc.nextDouble();
-////			sc.nextLine();
-//			
-//			double area = pi * Math.pow(radius, 2);
-//
-//			System.out.printf("The area of circus is: %.4f ", area);
-//			System.out.print("\n");
-//			sc.nextLine();
-//			System.out.println("\n\nDo you want try again ? (y/n)");
-//			String teste = sc.nextLine();
-//			System.out.println("\n");
-//			
-//			if(!(teste.toUpperCase().equals("Y"))){
-//				break;
-//			}
-//			
-//			
-//			
-//		}
 
 		while (true) {
 
