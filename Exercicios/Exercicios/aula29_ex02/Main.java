@@ -1,4 +1,4 @@
-package ex02;
+package aula29_ex02;
 
 import java.util.Locale;
 import java.util.Scanner;
