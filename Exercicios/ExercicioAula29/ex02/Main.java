@@ -11,7 +11,6 @@ public class Main {
 
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
-		String yesOrNo;
 		double pi = 3.14159;
 //		while(true) {
 //			System.out.print("enter the value of the radius: ");
@@ -51,7 +50,8 @@ public class Main {
 			}
 
 		}
-
+		
+		sc.close();
 	}
 
 }
